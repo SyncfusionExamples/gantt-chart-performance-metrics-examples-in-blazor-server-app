@@ -28,7 +28,7 @@ The sample demonstrates performance monitoring in a server‑interactive Blazor 
 ## How to Run the Project
 
 1. Clone or checkout this repository to a local folder.
-2. Open the solution file in Visual Studio 2022 or later.
+2. Open the project file (`.csproj`) in Visual Studio 2022 or later.
 3. Restore the required NuGet packages.
 4. Run the application.
 5. Navigate to the page hosting the Gantt Chart.
