@@ -1,5 +1,7 @@
 # Blazor Gantt Chart - Performance Metrics Examples
 
+The [Blazor Gantt Chart](https://www.syncfusion.com/blazor-components/blazor-gantt-chart?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) is a project planning and management tool that provides a Microsoft Project-like interface to display and manage hierarchical tasks with timeline details. 
+
 This repository contains a sample Blazor Web Application that demonstrates how to analyze performance metrics related to the Syncfusion Blazor Gantt Chart. The sample focuses on measuring Gantt Chart initial load time and tracking performance during common Gantt Chart operations.
 
 ## Project overview
@@ -33,6 +35,16 @@ The sample demonstrates performance monitoring in a server‑interactive Blazor 
 4. Run the application.
 5. Navigate to the page hosting the Gantt Chart.
 5. Observe the reported performance metrics during initial load and while performing Gantt Chart actions.
+
+## Related links
+[Learn More about Blazor Gantt Chart](https://www.syncfusion.com/blazor-components/blazor-gantt-chart?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) <br/><br/>
+[Download Free Trial](https://www.syncfusion.com/downloads?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) <br/><br/>
+[Pricing](https://www.syncfusion.com/sales/products/blazor?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) <br/><br/>
+[Documentation](https://blazor.syncfusion.com/documentation/gantt-chart/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) <br/><br/>
+[Online Examples](https://blazor.syncfusion.com/demos/gantt-chart/default-functionalities?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) <br/><br/>
+[Watch a How-to Video](https://www.syncfusion.com/tutorial-videos/blazor/gantt-chart?title=create-a-gantt-chart-component-in-a-blazor-webassembly) <br/><br/>
+[Community Forums](https://www.syncfusion.com/forums/blazor-components/gantt-chart?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) <br/><br/>
+[Suggest a feature](https://www.syncfusion.com/feedback/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples)
 
 ## Syncfusion License
 
